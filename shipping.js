@@ -6,6 +6,8 @@ import { SimpleLineIcons } from '@expo/vector-icons';
 import { AntDesign } from '@expo/vector-icons';
 import { useFonts, ArefRuqaaInk_400Regular} from '@expo-google-fonts/aref-ruqaa-ink';
 import AsyncStorage from '@react-native-async-storage/async-storage';
+import { View } from 'react-native';
+
 
 
 const ProductDetails = (props) => {
